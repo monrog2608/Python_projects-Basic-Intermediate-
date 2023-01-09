@@ -1,0 +1,2 @@
+word_list = ["ardvark", "baboon", "camel", "horse", "door", "bomb","song", "outside", "spring", "summer","monkey",
+             "lion", "dog", "cat", "penguin","badminton","basketball", "bracket", "players","crab"]
